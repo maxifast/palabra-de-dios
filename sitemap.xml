@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxifast.github.io/palabra-de-dios/</loc>
+    <loc>https://palabra-de-dios.vercel.app/</loc>
     <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://maxifast.github.io/palabra-de-dios/"/>
-    <xhtml:link rel="alternate" hreflang="uk" href="https://maxifast.github.io/palabra-de-dios/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://maxifast.github.io/palabra-de-dios/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://palabra-de-dios.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://palabra-de-dios.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://palabra-de-dios.vercel.app/"/>
   </url>
 </urlset>

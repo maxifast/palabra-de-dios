@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maxifast.github.io/palabra-de-dios/sitemap.xml
+Sitemap: https://palabra-de-dios.vercel.app/sitemap.xml
