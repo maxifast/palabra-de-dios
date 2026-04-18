@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxifast.github.io/palabra-de-dios/sitemap.xml
